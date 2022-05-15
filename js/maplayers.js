@@ -73,13 +73,13 @@ var geojson = {
             }
         }
     ]
-}; 
+};
 var json;
- 
+
 map.on('load', async () => {
     // Add the source1 location as a source.
     $.getJSON("json/bhh_vung_tuoi.geojson", function (data) {
-        var json = data; 
+        var json = data;
         map.addSource('source1', {
             type: 'geojson',
             data: 'json/bhh_vung_tuoi.geojson'
@@ -91,11 +91,45 @@ map.on('load', async () => {
             'layout': {},
             'paint': {
                 'fill-color': 'gray',
-                'fill-opacity':0.7
+                'fill-opacity': 0.7,
+                'fill-outline-color':'red'
 
             },
-        }); 
+        });
         map.fitBounds(turf.extent(json), { padding: 20 });
+
+
+        // Create a popup, but don't add it to the map yet.
+        const popup = new mapboxgl.Popup({
+            closeButton: false,
+            closeOnClick: false
+        });
+        function showDes(e) {
+            // Change the cursor style as a UI indicator.
+            map.getCanvas().style.cursor = 'pointer';
+        
+            // Copy coordinates array.
+            const coordinates = (turf.center(e.features[0])).geometry.coordinates.slice();//.coordinates[0].slice()[0];
+            // console.log(coordinates);
+            const description = e.features[0].properties.descriptio;
+        
+            // Ensure that if the map is zoomed out such that multiple
+            // copies of the feature are visible, the popup appears
+            // over the copy being pointed to.
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+            }
+        
+            // Populate the popup and set its coordinates
+            // based on the feature found.
+            popup.setLngLat(coordinates).setHTML(description).addTo(map);
+        }
+        map.on('mouseenter', 'source1', showDes);
+
+        map.on('mouseleave', 'source1', () => {
+            map.getCanvas().style.cursor = '';
+            popup.remove();
+        });
         showtable();
     });
     const layers = map.getStyle().layers;
@@ -128,10 +162,10 @@ map.on('load', async () => {
     map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.5 });
     map.setLight({ anchor: 'map' });
 
-}); 
+});
 map.addControl(new mapboxgl.FullscreenControl());
 
-map.addControl(new mapboxgl.NavigationControl());  
+map.addControl(new mapboxgl.NavigationControl());
 
 
 function clean_map() {
