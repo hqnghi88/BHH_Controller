@@ -37,8 +37,8 @@ var map_json = new Map();
 const toggleableLayerIds = [];
 map.on('load', async () => {
     // Add the source1 location as a source.
-    name_json.forEach(e => $.getJSON("json/" + e+".geojson", function (data) {
-        console.log(e);
+    name_json.forEach(e => $.getJSON("json/" + e + ".geojson", function (data) {
+        // console.log(data.features[0].geometry.type);
         toggleableLayerIds.push(e);
         map_json.set(e, data);
 
@@ -47,26 +47,62 @@ map.on('load', async () => {
             type: 'geojson',
             data: map_json.get(e)
         });
-        map.addLayer({
-            'id': e,
-            type: 'fill',
-            'source': e,
-            'layout': {},
-            'paint': {
-                'fill-color': 'gray',
-                'fill-opacity': 0.7,
-                'fill-outline-color': 'red'
+        if (data.features[0].geometry.type === "MultiPolygon") {
+            map.addLayer({
+                'id': e,
+                type: 'fill',
+                'source': e,
+                layout: {
+                    visibility: 'none',
+                },
+                'paint': {
+                    'fill-color': 'yellow',
+                    'fill-opacity': 0.7,
+                    'fill-outline-color': 'red'
 
-            },
-        });
+                },
+            });
+        }
+        if (data.features[0].geometry.type === "MultiLineString") {
+            map.addLayer({
+                'id': e,
+                type: 'line',
+                'source': e, visibility: 'none',
+                layout: {
+                    visibility: 'none',
+                    'line-cap': 'round',
+                    'line-join': 'round'
+                },
+                'paint': {
+                    'line-color': 'red',
+                    'line-width': 4,
+
+                },
+            });
+        }
+        if (data.features[0].geometry.type === "Point") {
+            map.addLayer({
+                'id': e,
+                type: 'circle',
+                layout: {
+                    visibility: 'none',
+                },
+                'source': e,
+                'paint': {
+                    'circle-color': 'cyan',
+                    'circle-opacity': 0.7,
+
+                },
+            });
+        }
         map.on('mouseenter', e, showDes);
         map.on('mouseleave', e, removePopup);
-        map.fitBounds(turf.extent(map_json.get(e)), { padding: 20 });
+        map.fitBounds(turf.extent(map_json.get(e)), { padding: 0 });
         // map.getSource(e).setData(map_json.get(e));
     }
     )
     );
- 
+
     // bhh_bo_kenh_xung_yeu
     // bhh_cac_cong_trinh_cong_tb
     // bhh_cong_trinh_chinh
@@ -129,7 +165,7 @@ map.on('load', async () => {
         map.getCanvas().style.cursor = '';
         popup.remove();
     }
- 
+
     const layers = map.getStyle().layers;
     const labelLayerId = layers.find(
         (layer) => layer.type === 'symbol' && layer.layout['text-field']
@@ -165,7 +201,7 @@ map.addControl(new mapboxgl.FullscreenControl());
 
 map.addControl(new mapboxgl.NavigationControl());
 
-
+showtable();
 // After the last frame rendered before the map enters an "idle" state.
 map.on('idle', () => {
     // If these two layers were not added to the map, abort
@@ -186,7 +222,7 @@ map.on('idle', () => {
         link.id = id;
         link.href = '#';
         link.textContent = id;
-        link.className = 'active';
+        link.className = '';
 
         // Show or hide layer when the toggle is clicked.
         link.onclick = function (e) {
@@ -194,6 +230,7 @@ map.on('idle', () => {
             e.preventDefault();
             e.stopPropagation();
 
+            map.fitBounds(turf.extent(map_json.get(clickedLayer)));
             const visibility = map.getLayoutProperty(
                 clickedLayer,
                 'visibility'
