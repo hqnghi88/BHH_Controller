@@ -63,11 +63,15 @@ map.on('load', async () => {
                 },
             });
         }
-        if (data.features[0].geometry.type === "MultiLineString") {
+        if (data.features[0].geometry.type === "MultiLineString") { 
+            // var buffered = turf.buffer(data.features , 0.05, {units: 'miles'});
+            // map.getSource(e).setData(buffered);
+
+            // console.log(turf.buffer(map_json.get(e)));
             map.addLayer({
                 'id': e,
-                type: 'line',
-                'source': e, visibility: 'none',
+                'type': 'line',
+                'source': e,  
                 layout: {
                     visibility: 'none',
                     'line-cap': 'round',
