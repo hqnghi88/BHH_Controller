@@ -144,38 +144,23 @@
                                                 </div>
                                                 <div class="tab-pane" id="cases" role="tabpanel">
                                                     <div class="card-body" style="height: 60%;">
-                                                        Số ca theo tháng <label id="daily_num"></label>
-                                                        <div class="card-body"><canvas id="myTimeChart"></canvas>
-                                                        </div>
+                                                        
                                                     </div>
-                                                    <div class="card-body" style="height: 60%;">Tỉ lệ trên 100,000 dân
-                                                        theo tháng <label id="rate_num"></label>
-                                                        <div class="card-body"><canvas id="myRateChart"></canvas>
-                                                        </div>
+                                                    <div class="card-body" style="height: 60%;"> 
                                                     </div>
                                                 </div>
-                                                <div class="tab-pane" id="mdr" role="tabpanel">
-                                                    Phân bố lao đa kháng thuốc <label id="mdr_num"></label>
-                                                    <div class="card-body"><canvas id="myMDRChart"></canvas></div>
+                                                <div class="tab-pane" id="mdr" role="tabpanel"> 
                                                 </div>
-                                                <div class="tab-pane" id="mdrraw" role="tabpanel">
-                                                    Phân bố lao đa kháng thuốc (thô) <label id="mdrraw_num"></label>
-                                                    <div class="card-body"><canvas id="myMDRrawChart"></canvas></div>
+                                                <div class="tab-pane" id="mdrraw" role="tabpanel"> 
                                                 </div>
-                                                <div class="tab-pane" id="sexage" role="tabpanel">
-                                                    Phân bố theo giới tính và độ tuổi <label id="sexage_num"></label>
-                                                    <div class="card-body"><canvas id="mySexAgeChart"></canvas></div>
+                                                <div class="tab-pane" id="sexage" role="tabpanel"> 
                                                 </div>
 
-                                                <div class="tab-pane" id="treat" role="tabpanel">
-                                                    Kết quả điều trị <label id="treat_num"></label>
-                                                    <div class="card-body"><canvas id="myTreatChart"></canvas></div>
+                                                <div class="tab-pane" id="treat" role="tabpanel"> 
                                                 </div>
 
 
-                                                <div class="tab-pane" id="hiv" role="tabpanel">
-                                                    Phân bố tình trạng HIV <label id="hiv_num"></label>
-                                                    <div class="card-body"><canvas id="myHIVChart"></canvas></div>
+                                                <div class="tab-pane" id="hiv" role="tabpanel"> 
                                                 </div>
 
                                             </div>
@@ -185,11 +170,9 @@
                             </div>
                             <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                                 <div class="card mb-4">
-                                    <div class="card-body" style="height:333px">
-                                        Nguy cơ theo tháng
-                                        <canvas id="mysimRateChart"></canvas>
-                                        Số ca theo tháng  
-                                        <canvas id="mysimChart"></canvas>
+                                    <div class="card-body" style="height:333px"> 
+                                        <div id="cong_name">Cống Xuân Quan</div>
+                                        <canvas id="myallTimeChart"></canvas>
                                     </div> 
                                 </div>
                             </div>
@@ -197,11 +180,7 @@
                             <div class="tab-pane fade" id="post" role="tabpanel" aria-labelledby="post-tab">
 
                                 <div class="card-body" style="height:333px">
-                                    <div id="expertChart"></div>
-                                    <!-- Số ca theo tháng  
-                                    <canvas id="mysimexpertChart"></canvas> -->
-                                    Nguy cơ theo tháng
-                                    <canvas id="mysimexpertRateChart"></canvas>                                  
+                                    <div id="expertChart"></div>                                
                                 </div>
                             </div>
 
@@ -239,6 +218,7 @@
         </script>
         <!-- <script type="text/javascript" src="js/func/backets_load.js"></script> -->
         <script src="js/scripts.js"></script> 
+        <script type="text/javascript" src="js/charts/chart-alltime.js"></script>
         <script type="text/javascript" src="js/charts/datatables.js"></script>
         <script type="text/javascript" src="js/func/get_data.js"></script>
         <script type="text/javascript" src="js/mapbox.js"></script>

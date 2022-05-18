@@ -56,7 +56,7 @@ map.on('load', async () => {
                     visibility: 'none',
                 },
                 'paint': {
-                    'fill-color': 'yellow',
+                    'fill-color': 'gray',
                     'fill-opacity': 0.7,
                     'fill-outline-color': 'red'
 
@@ -93,8 +93,8 @@ map.on('load', async () => {
                 },
                 'source': e,
                 'paint': {
-                    'circle-color': 'cyan',
-                    'circle-opacity': 0.7,
+                    'circle-color': 'yellow',
+                    'circle-radius': 10
 
                 },
             });
@@ -151,7 +151,7 @@ map.on('load', async () => {
         // Copy coordinates array.
         const coordinates = (turf.center(e.features[0])).geometry.coordinates.slice();//.coordinates[0].slice()[0];
         // console.log(coordinates);
-        const description = e.features[0].properties.descriptio;
+        const description = e.features[0].properties.Name+"<br/>"+e.features[0].properties.descriptio;
 
         // Ensure that if the map is zoomed out such that multiple
         // copies of the feature are visible, the popup appears
@@ -206,6 +206,7 @@ map.addControl(new mapboxgl.FullscreenControl());
 map.addControl(new mapboxgl.NavigationControl());
 
 showtable();
+showchart_alltime();
 // After the last frame rendered before the map enters an "idle" state.
 map.on('idle', () => {
     // If these two layers were not added to the map, abort

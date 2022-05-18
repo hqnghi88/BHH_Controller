@@ -1,20 +1,389 @@
 {
-"type": "FeatureCollection",
-"name": "bhh_cong_trinh_chinh",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Name": "Cống Xuân Quan", "descriptio": "<img src=\"https:\/\/doc-0g-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/2qcpffu9vht37devmqvpqvoldg\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vaZzlsuT-oTlHqhQxkt4amOq44NV4uFCuxZXTxOHEaqawdZ", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "Năm xây dựng 1958; Năm hoàn thành 1959; Nhiệm vụ cấp nước tưới cho toàn bộ hệ thống thủy nông Bắc Hưng Hải gồm một phần của TP Hà Nội tỉnh Hưng Yên, tỉnh Hải Dương và tỉnh Bắc Ninh, kết hợp", "Th__ng_s__": "- Tần suất TK: P=75%\n- Lưu lượng TK Q= 75 m3\/h\n- Mực nước TK tưới: TL: +1,9m; HL: +1,85m\n- Mực nước KT: TL: +13,0m; HL: +1,5m", "Qu___tr__n": "- Năm 1999 thay mới 4 cánh cửa lấy nước và cánh dưới cửa âu thuyền. \n- Tháng 6 năm 2016 điện khí hóa đóng mở cửa Âu. \n- Năm 2018 xây dựng mái che dàn công tác Cống Xuân Quan. \n- Năm 2019 thay thế cánh tr�", "K___t_qu__": "Phần thủy công:\n+ Cầu giao thông, trụ pin, cầu thả phai, tường ngực, tường hướng dòng, tường cánh thượng hạ lưu hoạt động bình thường.\n+ Cầu công tác: mặt cầu, dầm cầu, trụ cầu, lan can sắt �", "gx_media_l": "https:\/\/doc-0g-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/2qcpffu9vht37devmqvpqvoldg\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vaZzlsuT-oTlHqhQxkt4amOq44NV4uFCuxZXTxOHEaqawdZOSZT7DK1sJ" }, "geometry": { "type": "Point", "coordinates": [ 105.919841, 20.971939, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Cống Báo Đáp", "descriptio": "<img src=\"https:\/\/doc-0s-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/gjtuhnt20tuu3taegrhsfke6qs\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbT-pX63ETbRsZAmSXjZoNRdi1p6qgVrTpaHtydp5fYNfuD", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "Năm xây dựng 2012; Năm hoàn thành 2013; Nhiệm vụ : -\tĐảm bảo lưu lượng và đầu nước theo khả năng lấy nước của cống Xuân quan vào hệ thống để tưới cho diện tích 125.000 ha đất canh tác thuộc các", "Th__ng_s__": "- Mực nước thiết kế: TL +1,45; HL +1,37\n- Mực nước dâng lên thiết kế: TL +4,00; HL +1,00\n- Mức nước dâng lên đối chiếu: TL +5,00; HL 1,00\n- Mức nước cho thuyền bè đi qua : TL=HL = +3,50\n- Mực nước chênh th��", "Qu___tr__n": "- Tháng 11\/2020 đã được thay mới máy đóng mở cửa lấy nước  bằng 04 máy 2VD-50 khác và cho chạy với vận tốc hơn máy cũ.", "K___t_qu__": "Phần thủy công:\n+ Thân cống, cầu giao thông, tường ngực, tường cánh thượng hạ lưu, sân trước, sân sau cống qua kiểm tra vẫn ổn định. \nPhần Thiết bị cơ khí:\n+ Cánh cống: hiện các cánh cống, cánh", "gx_media_l": "https:\/\/doc-0s-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/gjtuhnt20tuu3taegrhsfke6qs\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbT-pX63ETbRsZAmSXjZoNRdi1p6qgVrTpaHtydp5fYNfuD40PPzJs7gk" }, "geometry": { "type": "Point", "coordinates": [ 105.94776, 20.969358, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Lực Điền", "descriptio": "<img src=\"https:\/\/doc-0c-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/p0bjseqndmp4i3uchbl9v8potc\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vYyemRNMy87hwLbHB4QPhVydKTTXuF9cZYYzYQ2nML-Li03", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "- Năm xây dựng 1960; Năm hoàn thành 1961\n- Nhiệm vụ công trình: Công trình có nhiệm vụ điều tiết nước tưới và tiêu cho phía đông nam hệ\nvà kết hợp giao thông thủy bộ. Kênh Điện Biên nổi liền kênh", "Th__ng_s__": "- Mực nước max thượng lưu: (+3,50)m\n- Mực nước min hạ lưu: (+1,00)m\n- Lưu lượng qua cống mùa cạn: Q = 15 m3\/s\n- Lưu lượng thiết kế : Q = 8,6 m3\/s\n", "Qu___tr__n": "- Bỏ cánh cửa chữ nhân ở thượng và hạ lưu âu;\n- Bỏ cảnh của gô phía hạ lưu âu;\n- Bỏ cánh cửa điều tiết phụ;\n- Năm 1980 thay cửa van phẳng thép, đóng mở bằng tời 5,0 tấn đặt dưới đất quay", "K___t_qu__": "- Phần công trình thủy công:\n+ Cầu giao thông, sàn công tác, tường cánh thượng, hạ lưu cống, thành âu ổn định;\n+ Mái đá thượng hạ lưu, mái đá trong khoang âu hiện ổn định;\n+ Dầm cầu ở hai bên đ�", "gx_media_l": "https:\/\/doc-0c-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/p0bjseqndmp4i3uchbl9v8potc\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vYyemRNMy87hwLbHB4QPhVydKTTXuF9cZYYzYQ2nML-Li033EwL0g3Y1V" }, "geometry": { "type": "Point", "coordinates": [ 106.026863, 20.861318, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Cống Tranh mới", "descriptio": "<img src=\"https:\/\/doc-0g-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/v8tvc6q0fmghhmsconhkgku1bo\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbkC8LQ1MG7QSv9n7M9_18kibA55ld139HNBYq5W2A_LrNP", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "Xây dựng năm 1965\n- Cống Tranh nằm trên quốc lộ 38 có nhiệm vụ điều tiết tưới, tiêu và giao thông thủy bộ\n+ Về tưới: lấy nước kênh Kim Sơn tưới cho 35000 ha phía nam hệ thống Bắc Hưng Hải gồm c�", "Th__ng_s__": "-Mực nước kiểm tra\n+ TL: +3,5m; HL: +0,75m\n- Lưu lượng tiêu: Q= 8,56 m3\/s\n- Quy mô, kích thước:\n+ Cống có 1 cửa: BxH= 5,0m x 5,0m\n+ Chiều rộng toàn bộ: 7,4m\n+ Chiều dài: L= 23,5m\n+ Cao trình đáy: -1,0m\n", "Qu___tr__n": "- Năm 2020: thay cánh cống bằng thép \n- Năm 2020: Thay cáp ", "K___t_qu__": "- Phần thủy công:\n+ Cầu giao thông: Do hạt quản lý đường bộ quản lý hoạt động bình thường.\n+ Cầu công tác: Mặt cầu hoạt động bình thường. Dầm cầu, trụ cầu vẫn ổn định không có hiện tượ", "gx_media_l": "https:\/\/doc-0g-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/v8tvc6q0fmghhmsconhkgku1bo\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbkC8LQ1MG7QSv9n7M9_18kibA55ld139HNBYq5W2A_LrNPxnEaKAGPbl" }, "geometry": { "type": "Point", "coordinates": [ 106.1391632, 20.8934321, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Cống Neo", "descriptio": "<img src=\"https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/gl6vaa8ele9rqnhpk0tt6bs9ls\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vaSFshkhKHYxCOx2IcE-mLoKjWrIvqF14ysON3OpsJsrWY_", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "-Xây dựng năm 1961\n-Hoàn thành năm 1962\n-Nhiệm vụ: điều tiết tưới, tiêu và giao thông thủy bộ. Tưới cho 34.982,87 ha của thành phố Hưng Yên và các huyện Tiên Lữ, Phù Cừ, Kim Động, Ân Thi thuộc tỉnh H�", "Th__ng_s__": "- Thiết kế với tần suất P= 10%\n+ Mực nước thiết kế: TL = (+1,15)m, HL = (+1,10)m\n+ Lưu lượng tiêu thiết kế: Q= 120 m3\/s\n- Kiểm tra ổn định:\n+ Mực nước tính toán TL = (+2,80)m, TL = (+0,00)m\n+ Mực nước kiểm", "Qu___tr__n": "- Năm 1995 đối trọng cửa số 1 bị vỡ, Năm 1997 đối trọng cửa số 4 bị vỡ, Năm 2010 đối trọng cửa số 2 bị vỡ đã được đúc lại bằng bê tông cốt thép mác M200#\n - Năm 1995 thay mới đường ray xe", "K___t_qu__": "-    Công trình thuỷ công:\n + Trụ pin cống ổn định\n + Cầu thả phai hiện đảm bảo, đường ray xe phai hoạt động bình thường.\n + Cầu công tác của cống hiện ổn định.\n + Tường ngực hiện vẫn ổn", "gx_media_l": "https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/gl6vaa8ele9rqnhpk0tt6bs9ls\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vaSFshkhKHYxCOx2IcE-mLoKjWrIvqF14ysON3OpsJsrWY_O-TuEkvK1-" }, "geometry": { "type": "Point", "coordinates": [ 106.243838, 20.78162, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Trạm Bơm Mi Động", "descriptio": "<img src=\"https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/cts5ctbthq7h7p16hlqr00qvhk\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vZti7UFKNNCTz0KBl-8vjzK1qhzgwEYfkQWgeSMmN1zfEbJ", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "-Xây dựng năm 1979\n-Hoàn thành năm 1980\n-Nhiệm vụ: tiêu úng cho 4.000ha, trong đó huyện Thanh Miện là 1.500ha, huyện Phù Cừ là 2.500 ha", "Th__ng_s__": "+ Gồm 10 tổ máy bơm, loại máy bơm trục đứng 8.000 m3\/h, công suất động cơ điện 200kw\/h.\n+ Cao trình đáy: Bể xả (+1,10)m\n Bể hút (-2,50)m\n+ Lưu lượng thiết kế: 80.000 m3\/h\n", "Qu___tr__n": "- Tháng 6\/2015 thay toàn bộ 10 máy loại bơm loại 8.000m3\/h\n - Tháng 4\/2015 thay mới tủ tổng gồm 3 tủ đầu vào và 2 tủ phân đoạn\n - Năm 2015 thay 3 máy V5 bằng V10 cống KT, KT'\n - Năm 2015 thay mới 3 cánh cống x�", "K___t_qu__": "- Phần nhà máy, công trình thuỷ công:\n + Tầng 1 là buồng hút bằng bê tông cốt thép quá trình sử dụng lâu ngày nước rò rỉ qua các trụ pin từ buồng của máy này sang máy kia.\n + Tầng 2 là tầng bơm hiện", "gx_media_l": "https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/cts5ctbthq7h7p16hlqr00qvhk\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vZti7UFKNNCTz0KBl-8vjzK1qhzgwEYfkQWgeSMmN1zfEbJazPWwsomvP" }, "geometry": { "type": "Point", "coordinates": [ 106.245163599999984, 20.6969135, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Cống Cầu Xe", "descriptio": "<img src=\"https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/2d0qjqnasgpdm340osmbt7e1i8\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vaqrzVXHNcvGKu7zrnB6aXDokb5StxWnDFFt6gV_IO682t0", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "- Năm xây dựng 2014\n- Năm hoàn thành 2019\n- Nhiệm vụ: Ngăn triều tiêu úng cho toàn bộ hệ thống ra sông Thái Bình và lấy nước ngược từ sông Thái Bình để cung cấp nước tưới, kết hợp giao thông thủy", "Th__ng_s__": "- Lưu lượng thiết kế : 360 m3\/s\n- Mực nước phía đồng:\n\t+ Mực nước kiểm tra lớn nhất ứng với P = 0,2%\t: (+2,86)m;\n\t+ Mực nước thiết kế lớn nhất ứng với P = 0,5%\t: (+2,85)m;\n\t+ Mực nước nhỏ nhất ứ", "Qu___tr__n": "- Tháng 9\/2020 thay cáp kéo cánh cống.\n- Tháng 6\/2021 Thay mới đoạn đường điện tiếp giáp giữa đường dẫn và đầu Âu thuyền vận hành cống\n- Thay vòng bi ở  cụm má phanh tời thủy lực cánh dưới khoang", "K___t_qu__": "- Cầu công tác, cầu cất âu thuyền hiện tại ổn định, Phần đường dẫn vào 2 đầu cầu công tác hiện tại có hiện tượng lún\n- Trụ pin và cột đỡ chòi đều có hiện tượng nứt 1 vòng quanh trụ và", "gx_media_l": "https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/2d0qjqnasgpdm340osmbt7e1i8\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vaqrzVXHNcvGKu7zrnB6aXDokb5StxWnDFFt6gV_IO682t0jQKTVsbH8B" }, "geometry": { "type": "Point", "coordinates": [ 106.4647455, 20.7811112, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Cống An Thổ", "descriptio": "<img src=\"https:\/\/doc-0s-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/jvtr5hgqfk445of82vsipekm9o\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbsaJ4cICL2vabP1k116ZtSLw-8U_hmvW4Cd1CB1XbWZkbW", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "- Năm xây dựng 1977.\n- Năm hoàn thành 1979.\n- Nhiệm vụ: Ngăn triều tiêu úng cho toàn bộ hệ thống ra sông Luộc, lấy nước ngược từ sông Luộc để cung cấp nước tưới, kết hợp giao thông thủy", "Th__ng_s__": "- Thiết kế với tần suất P = 20%:\n+ Hệ số tiêu: 2,25 l\/s.ha\n+ Lưu lượng tiêu thiết kế: Q = 105 m3\/s\n+ Mực nước thiết kế Hđỉnh = (+1,91)m; Hchân = (+1,31)m\n- Kiểm tra với tần xuất: P = 10%:\n+ Hệ số tiêu: 2,", "Qu___tr__n": "- Năm 1983 Tường ngực có 3 vết nứt xuất hiệncác vết nứt này được theo dõi từ khi xuất hiện đến nay chưa thấy phát triển thêm\n- Năm 1988 thay thế cánh cống của 6 cửa cống; Sửa chữa hai cửa đi��", "K___t_qu__": "- Cầu giao thông mặt cầu bình thường\n- Cầu công tác hoạt động bình thường\n- Trụ pin làm việc bình thường\n- Tường ngực có 3 vết nứt xuất hiện năm 1983, các vết nứt này được theo dõi từ khi xu��", "gx_media_l": "https:\/\/doc-0s-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/jvtr5hgqfk445of82vsipekm9o\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbsaJ4cICL2vabP1k116ZtSLw-8U_hmvW4Cd1CB1XbWZkbW8oGj0H_AhY" }, "geometry": { "type": "Point", "coordinates": [ 106.455406, 20.749561, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Âu thuyền Cầu Cất", "descriptio": "Năm xây dựng, hoàn thành và nhiệm vụ: - Khởi công xây dựng âu thuyền cầu Cất mới vào cuối năm 2018<br>- Năm hoàn thành: 2020<br>- Nhiệm vụ: làm nhiệm vụ giao thông thủy giữa kênh Kim Sơn hệ thống thủ", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "- Khởi công xây dựng âu thuyền cầu Cất mới vào cuối năm 2018\n- Năm hoàn thành: 2020\n- Nhiệm vụ: làm nhiệm vụ giao thông thủy giữa kênh Kim Sơn hệ thống thủy nông Bắc Hưng Hải với sông Thái Bình thi��", "Th__ng_s__": "(cao độ tính theo cao độ VN2000, cao độ này thấp hơn cao độ thủy lợi 0,273m)\n- Mực nước thiết kế: P = 0,4%\nPhía sông: (+5,40)m \nPhía đồng: (+3,01)m\n- Mực nước kiểm tra: p = 0,2%\nPhía sông: (+5,77)m\nPhía đồ", "Qu___tr__n": null, "K___t_qu__": "-\tCông trình thuỷ công:\n+ Cửa âu phía đồng từ khi đưa vào vận hành thử qua theo dõi phần thuỷ công có hiện tượng lún. Trạm yêu cầu Ban QLDA, đơn vị thi công tiếp tục theo dõi.\n+ Lòng âu: Từ khi đưa", "gx_media_l": null }, "geometry": { "type": "Point", "coordinates": [ 106.3457412, 20.9258513, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Cống BáThủy", "descriptio": "<img src=\"https:\/\/doc-0s-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/gv3g0t07rn2ptpna1sea01cj5s\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbqo2xnf0ELIoIw5C3NQvFwt8aOcn6fcY7YBQ7aSZkdNok4", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "Xây dựng năm 1962\n- Nhiệm vụ: điều tiết tưới tiêu và giao thông đường bộ\n+ Về tưới: tưới cho 35000 ha của các huyện Cẩm Giàng, Bình Giang, Gia Lộc, Tứ Kỳ tỉnh Hải Dương, một phần huyện Gia Bình", "Th__ng_s__": "- Mực nước TK: TL: (+3,00)m; HL: (+0,00)m\n- Mực nước kiểm tra: TL: (+3,50)m; HL: (+0,00)m\n- Lưu lượng tiêu: Q = 148m3\/s ứng với P = 10%\n- Quy mô kích thước: \n+ Cống có 5 cửa: BxH= 8m x 5,15m\n+ Chiều rộng toàn bộ: B=", "Qu___tr__n": "- Năm 2009; năm 2010: điện khí hóa 5 tời đóng mở cánh cống\n- năm 2015: - Tu sửa mái kè đá hạ lưu phía bờ Tả cống Bá Thủy, thả đá rời, rọ đá chống xói. Xây nối tiếp phần kè đá cũ dài thêm 20m c", "K___t_qu__": "- Phần thủy công:\n+ Cầu giao thông: dầm cầu một số đầu dầm bê tông có hiện tượng nứt. Trụ cầu có 5 trụ giữa bình thường, mố đầu cầu bên tả bình thường không có hiện tượng nứt, lún, bê t", "gx_media_l": "https:\/\/doc-0s-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/gv3g0t07rn2ptpna1sea01cj5s\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbqo2xnf0ELIoIw5C3NQvFwt8aOcn6fcY7YBQ7aSZkdNok4bbxo05BTCo" }, "geometry": { "type": "Point", "coordinates": [ 106.243458, 20.891068, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Cống Tranh cũ", "descriptio": "Năm xây dựng, hoàn thành và nhiệm vụ: - Năm xây dựng: 1930<br>- Nhiệm vụ điều tiết tưới, tiêu và giao thông đường bộ<br>+ Về tưới: lấy nước kênh Kim Sơn tưới cho 35000 ha phía nam hệ thống Bắc Hư", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "- Năm xây dựng: 1930\n- Nhiệm vụ điều tiết tưới, tiêu và giao thông đường bộ\n+ Về tưới: lấy nước kênh Kim Sơn tưới cho 35000 ha phía nam hệ thống Bắc Hưng Hải gồm các huyện Ân Thi, Phù Cừ, Tiên L", "Th__ng_s__": "-Mực nước kiểm tra\n+ TL: +3,5m; HL: +0,75m\n- Lưu lượng tiêu: Q= 7,0 m3\/s\n- Quy mô, kích thước:\n+ Cống có 3 cửa: cửa giữa BxH= 3,0m x4,5m\nHai cửa bên BxH= 2,0m x 3,15m\n+Chiều rộng toàn bộ 11,55m\n+Chiều dài L=17,5 m\n+", "Qu___tr__n": "- Năm 2018: Sửa chữa, cải tạo giàn van công tác\n- Năm  2018: Thay máy đóng mở vận hành bằng điện: cánh cửa giữa vận hành bằng máy V5, 2 cánh 2 bên vận hành bằng máy V3", "K___t_qu__": "- Công trình thủy công:\n+ Cầu giao thông, cầu công tác hiện ổn định, cầu thang lên sàn công tác bị móp 1 đoạn dài 1,0m do va chạm giao thông.\n+ Tường cánh hiện tại cả tường phía thượng lưu và hạ lư", "gx_media_l": null }, "geometry": { "type": "Point", "coordinates": [ 106.1374381, 20.892585, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Cống Kênh Cầu", "descriptio": "<img src=\"https:\/\/doc-10-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/4nerpced2ckl4ha11e3r93lvjs\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vb3mK-S6lbtIX_bYIhOfukjP_zystbSri0JLIDXxeOeKiom", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "- Năm xây dựng 1960; Năm hoàn thành 1961\n- Nhiệm vụ công trình: Cống Kênh Cầu nằm trên kênh Kim Sơn là kênh trục chính Bắc Hưng Hải có nhiệm vụ điều tiết nước tưới và tiêu cho phía bắc hệ thống v", "Th__ng_s__": "- Tần suất thiết kế P=10%; Q= 21 m3\/s\n- Tần suất thiết kế P=5% ;Q= 31 m3\/s\n", "Qu___tr__n": "- Năm 1991 thay cánh số 4;\n- Năm 1995 thay cánh số 1,5,6\n- Năm 1996 thay cánh số 2, 3\n- Năm 1996 thay máy đóng mở cửa số 2, 3\n- Năm 1997 cải tạo từ phai gỗ đóng mở bằng ba lăng xen 3 tấn sang phai thép, máy đón", "K___t_qu__": "- Phần thủy công:\n+ Mặt cầu, dầm cầu, lan can cầu giao thông , dầm sàn công tác, các trụ pin, mái đá thượng, hạ lưu hiện ổn định\n- Các thiết bị cơ khí:\n+ Tấm số 3 cánh số 1 đã bị mục thủng m��", "gx_media_l": "https:\/\/doc-10-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/4nerpced2ckl4ha11e3r93lvjs\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vb3mK-S6lbtIX_bYIhOfukjP_zystbSri0JLIDXxeOeKiomkQ3wAQfSW7" }, "geometry": { "type": "Point", "coordinates": [ 106.007964, 20.9170775, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Âu Bằng Ngang", "descriptio": "<img src=\"https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/12959imo372k384569gonis49o\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vY9Il3NdwBwjmvvACkCIScdra3Hf5xSd01KxXhp-wrhB_Z7", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "N__m_x__y_": "- Năm xây dựng 1971; Hoàn thành năm 1972\n- Nhiệm vụ công trình: Điều tiết nước tưới cho Kim Động và Khoái Châu,ngăn nước tiêu cho khu Nam và cho thuyền bè qua lại từ thị xã Hưng Yên ra kênh chính Bắc H", "Th__ng_s__": "- Mực nước thiết kế:\n+ TL max: +3.4m\n+ HL min: + 1.5m\n- Lưu lượng thiết kế: 8,6 m3\/s", "Qu___tr__n": "- Năm 2000 thay cánh âu\n", "K___t_qu__": "- Phần công trình thủy công: \n+ Sàn công tác, cầu thang, tường cánh thượng, hạ lưu âu, thành âu, mái đá thượng hạ lưu âu hiện ổn định;\n+ Mái đá thượng hạ lưu: Một phần tiếp giáp với cửa âu ph", "gx_media_l": "https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/12959imo372k384569gonis49o\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vY9Il3NdwBwjmvvACkCIScdra3Hf5xSd01KxXhp-wrhB_Z7yX_Kb0g72i" }, "geometry": { "type": "Point", "coordinates": [ 106.062572599999982, 20.7454289, 0.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "bhh_cong_trinh_chinh",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cống Xuân Quan",
+                "descriptio": "<img src=\"https:\/\/doc-0g-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/2qcpffu9vht37devmqvpqvoldg\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vaZzlsuT-oTlHqhQxkt4amOq44NV4uFCuxZXTxOHEaqawdZ",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "Năm xây dựng 1958; Năm hoàn thành 1959; Nhiệm vụ cấp nước tưới cho toàn bộ hệ thống thủy nông Bắc Hưng Hải gồm một phần của TP Hà Nội tỉnh Hưng Yên, tỉnh Hải Dương và tỉnh Bắc Ninh, kết hợp",
+                "Th__ng_s__": "- Tần suất TK: P=75%\n- Lưu lượng TK Q= 75 m3\/h\n- Mực nước TK tưới: TL: +1,9m; HL: +1,85m\n- Mực nước KT: TL: +13,0m; HL: +1,5m",
+                "Qu___tr__n": "- Năm 1999 thay mới 4 cánh cửa lấy nước và cánh dưới cửa âu thuyền. \n- Tháng 6 năm 2016 điện khí hóa đóng mở cửa Âu. \n- Năm 2018 xây dựng mái che dàn công tác Cống Xuân Quan. \n- Năm 2019 thay thế cánh tr�",
+                "K___t_qu__": "Phần thủy công:\n+ Cầu giao thông, trụ pin, cầu thả phai, tường ngực, tường hướng dòng, tường cánh thượng hạ lưu hoạt động bình thường.\n+ Cầu công tác: mặt cầu, dầm cầu, trụ cầu, lan can sắt �",
+                "gx_media_l": "https:\/\/doc-0g-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/2qcpffu9vht37devmqvpqvoldg\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vaZzlsuT-oTlHqhQxkt4amOq44NV4uFCuxZXTxOHEaqawdZOSZT7DK1sJ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.919841,
+                    20.971939,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cống Báo Đáp",
+                "descriptio": "<img src=\"https:\/\/doc-0s-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/gjtuhnt20tuu3taegrhsfke6qs\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbT-pX63ETbRsZAmSXjZoNRdi1p6qgVrTpaHtydp5fYNfuD",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "Năm xây dựng 2012; Năm hoàn thành 2013; Nhiệm vụ : -\tĐảm bảo lưu lượng và đầu nước theo khả năng lấy nước của cống Xuân quan vào hệ thống để tưới cho diện tích 125.000 ha đất canh tác thuộc các",
+                "Th__ng_s__": "- Mực nước thiết kế: TL +1,45; HL +1,37\n- Mực nước dâng lên thiết kế: TL +4,00; HL +1,00\n- Mức nước dâng lên đối chiếu: TL +5,00; HL 1,00\n- Mức nước cho thuyền bè đi qua : TL=HL = +3,50\n- Mực nước chênh th��",
+                "Qu___tr__n": "- Tháng 11\/2020 đã được thay mới máy đóng mở cửa lấy nước  bằng 04 máy 2VD-50 khác và cho chạy với vận tốc hơn máy cũ.",
+                "K___t_qu__": "Phần thủy công:\n+ Thân cống, cầu giao thông, tường ngực, tường cánh thượng hạ lưu, sân trước, sân sau cống qua kiểm tra vẫn ổn định. \nPhần Thiết bị cơ khí:\n+ Cánh cống: hiện các cánh cống, cánh",
+                "gx_media_l": "https:\/\/doc-0s-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/gjtuhnt20tuu3taegrhsfke6qs\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbT-pX63ETbRsZAmSXjZoNRdi1p6qgVrTpaHtydp5fYNfuD40PPzJs7gk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.94776,
+                    20.969358,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lực Điền",
+                "descriptio": "<img src=\"https:\/\/doc-0c-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/p0bjseqndmp4i3uchbl9v8potc\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vYyemRNMy87hwLbHB4QPhVydKTTXuF9cZYYzYQ2nML-Li03",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "- Năm xây dựng 1960; Năm hoàn thành 1961\n- Nhiệm vụ công trình: Công trình có nhiệm vụ điều tiết nước tưới và tiêu cho phía đông nam hệ\nvà kết hợp giao thông thủy bộ. Kênh Điện Biên nổi liền kênh",
+                "Th__ng_s__": "- Mực nước max thượng lưu: (+3,50)m\n- Mực nước min hạ lưu: (+1,00)m\n- Lưu lượng qua cống mùa cạn: Q = 15 m3\/s\n- Lưu lượng thiết kế : Q = 8,6 m3\/s\n",
+                "Qu___tr__n": "- Bỏ cánh cửa chữ nhân ở thượng và hạ lưu âu;\n- Bỏ cảnh của gô phía hạ lưu âu;\n- Bỏ cánh cửa điều tiết phụ;\n- Năm 1980 thay cửa van phẳng thép, đóng mở bằng tời 5,0 tấn đặt dưới đất quay",
+                "K___t_qu__": "- Phần công trình thủy công:\n+ Cầu giao thông, sàn công tác, tường cánh thượng, hạ lưu cống, thành âu ổn định;\n+ Mái đá thượng hạ lưu, mái đá trong khoang âu hiện ổn định;\n+ Dầm cầu ở hai bên đ�",
+                "gx_media_l": "https:\/\/doc-0c-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/p0bjseqndmp4i3uchbl9v8potc\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vYyemRNMy87hwLbHB4QPhVydKTTXuF9cZYYzYQ2nML-Li033EwL0g3Y1V"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.026863,
+                    20.861318,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cống Tranh mới",
+                "descriptio": "<img src=\"https:\/\/doc-0g-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/v8tvc6q0fmghhmsconhkgku1bo\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbkC8LQ1MG7QSv9n7M9_18kibA55ld139HNBYq5W2A_LrNP",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "Xây dựng năm 1965\n- Cống Tranh nằm trên quốc lộ 38 có nhiệm vụ điều tiết tưới, tiêu và giao thông thủy bộ\n+ Về tưới: lấy nước kênh Kim Sơn tưới cho 35000 ha phía nam hệ thống Bắc Hưng Hải gồm c�",
+                "Th__ng_s__": "-Mực nước kiểm tra\n+ TL: +3,5m; HL: +0,75m\n- Lưu lượng tiêu: Q= 8,56 m3\/s\n- Quy mô, kích thước:\n+ Cống có 1 cửa: BxH= 5,0m x 5,0m\n+ Chiều rộng toàn bộ: 7,4m\n+ Chiều dài: L= 23,5m\n+ Cao trình đáy: -1,0m\n",
+                "Qu___tr__n": "- Năm 2020: thay cánh cống bằng thép \n- Năm 2020: Thay cáp ",
+                "K___t_qu__": "- Phần thủy công:\n+ Cầu giao thông: Do hạt quản lý đường bộ quản lý hoạt động bình thường.\n+ Cầu công tác: Mặt cầu hoạt động bình thường. Dầm cầu, trụ cầu vẫn ổn định không có hiện tượ",
+                "gx_media_l": "https:\/\/doc-0g-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/v8tvc6q0fmghhmsconhkgku1bo\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbkC8LQ1MG7QSv9n7M9_18kibA55ld139HNBYq5W2A_LrNPxnEaKAGPbl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.1391632,
+                    20.8934321,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cống Neo",
+                "descriptio": "<img src=\"https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/gl6vaa8ele9rqnhpk0tt6bs9ls\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vaSFshkhKHYxCOx2IcE-mLoKjWrIvqF14ysON3OpsJsrWY_",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "-Xây dựng năm 1961\n-Hoàn thành năm 1962\n-Nhiệm vụ: điều tiết tưới, tiêu và giao thông thủy bộ. Tưới cho 34.982,87 ha của thành phố Hưng Yên và các huyện Tiên Lữ, Phù Cừ, Kim Động, Ân Thi thuộc tỉnh H�",
+                "Th__ng_s__": "- Thiết kế với tần suất P= 10%\n+ Mực nước thiết kế: TL = (+1,15)m, HL = (+1,10)m\n+ Lưu lượng tiêu thiết kế: Q= 120 m3\/s\n- Kiểm tra ổn định:\n+ Mực nước tính toán TL = (+2,80)m, TL = (+0,00)m\n+ Mực nước kiểm",
+                "Qu___tr__n": "- Năm 1995 đối trọng cửa số 1 bị vỡ, Năm 1997 đối trọng cửa số 4 bị vỡ, Năm 2010 đối trọng cửa số 2 bị vỡ đã được đúc lại bằng bê tông cốt thép mác M200#\n - Năm 1995 thay mới đường ray xe",
+                "K___t_qu__": "-    Công trình thuỷ công:\n + Trụ pin cống ổn định\n + Cầu thả phai hiện đảm bảo, đường ray xe phai hoạt động bình thường.\n + Cầu công tác của cống hiện ổn định.\n + Tường ngực hiện vẫn ổn",
+                "gx_media_l": "https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/gl6vaa8ele9rqnhpk0tt6bs9ls\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vaSFshkhKHYxCOx2IcE-mLoKjWrIvqF14ysON3OpsJsrWY_O-TuEkvK1-"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.243838,
+                    20.78162,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Trạm Bơm Mi Động",
+                "descriptio": "<img src=\"https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/cts5ctbthq7h7p16hlqr00qvhk\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vZti7UFKNNCTz0KBl-8vjzK1qhzgwEYfkQWgeSMmN1zfEbJ",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "-Xây dựng năm 1979\n-Hoàn thành năm 1980\n-Nhiệm vụ: tiêu úng cho 4.000ha, trong đó huyện Thanh Miện là 1.500ha, huyện Phù Cừ là 2.500 ha",
+                "Th__ng_s__": "+ Gồm 10 tổ máy bơm, loại máy bơm trục đứng 8.000 m3\/h, công suất động cơ điện 200kw\/h.\n+ Cao trình đáy: Bể xả (+1,10)m\n Bể hút (-2,50)m\n+ Lưu lượng thiết kế: 80.000 m3\/h\n",
+                "Qu___tr__n": "- Tháng 6\/2015 thay toàn bộ 10 máy loại bơm loại 8.000m3\/h\n - Tháng 4\/2015 thay mới tủ tổng gồm 3 tủ đầu vào và 2 tủ phân đoạn\n - Năm 2015 thay 3 máy V5 bằng V10 cống KT, KT'\n - Năm 2015 thay mới 3 cánh cống x�",
+                "K___t_qu__": "- Phần nhà máy, công trình thuỷ công:\n + Tầng 1 là buồng hút bằng bê tông cốt thép quá trình sử dụng lâu ngày nước rò rỉ qua các trụ pin từ buồng của máy này sang máy kia.\n + Tầng 2 là tầng bơm hiện",
+                "gx_media_l": "https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/cts5ctbthq7h7p16hlqr00qvhk\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vZti7UFKNNCTz0KBl-8vjzK1qhzgwEYfkQWgeSMmN1zfEbJazPWwsomvP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.245163599999984,
+                    20.6969135,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cống Cầu Xe",
+                "descriptio": "<img src=\"https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/2d0qjqnasgpdm340osmbt7e1i8\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vaqrzVXHNcvGKu7zrnB6aXDokb5StxWnDFFt6gV_IO682t0",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "- Năm xây dựng 2014\n- Năm hoàn thành 2019\n- Nhiệm vụ: Ngăn triều tiêu úng cho toàn bộ hệ thống ra sông Thái Bình và lấy nước ngược từ sông Thái Bình để cung cấp nước tưới, kết hợp giao thông thủy",
+                "Th__ng_s__": "- Lưu lượng thiết kế : 360 m3\/s\n- Mực nước phía đồng:\n\t+ Mực nước kiểm tra lớn nhất ứng với P = 0,2%\t: (+2,86)m;\n\t+ Mực nước thiết kế lớn nhất ứng với P = 0,5%\t: (+2,85)m;\n\t+ Mực nước nhỏ nhất ứ",
+                "Qu___tr__n": "- Tháng 9\/2020 thay cáp kéo cánh cống.\n- Tháng 6\/2021 Thay mới đoạn đường điện tiếp giáp giữa đường dẫn và đầu Âu thuyền vận hành cống\n- Thay vòng bi ở  cụm má phanh tời thủy lực cánh dưới khoang",
+                "K___t_qu__": "- Cầu công tác, cầu cất âu thuyền hiện tại ổn định, Phần đường dẫn vào 2 đầu cầu công tác hiện tại có hiện tượng lún\n- Trụ pin và cột đỡ chòi đều có hiện tượng nứt 1 vòng quanh trụ và",
+                "gx_media_l": "https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/2d0qjqnasgpdm340osmbt7e1i8\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vaqrzVXHNcvGKu7zrnB6aXDokb5StxWnDFFt6gV_IO682t0jQKTVsbH8B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.4647455,
+                    20.7811112,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cống An Thổ",
+                "descriptio": "<img src=\"https:\/\/doc-0s-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/jvtr5hgqfk445of82vsipekm9o\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbsaJ4cICL2vabP1k116ZtSLw-8U_hmvW4Cd1CB1XbWZkbW",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "- Năm xây dựng 1977.\n- Năm hoàn thành 1979.\n- Nhiệm vụ: Ngăn triều tiêu úng cho toàn bộ hệ thống ra sông Luộc, lấy nước ngược từ sông Luộc để cung cấp nước tưới, kết hợp giao thông thủy",
+                "Th__ng_s__": "- Thiết kế với tần suất P = 20%:\n+ Hệ số tiêu: 2,25 l\/s.ha\n+ Lưu lượng tiêu thiết kế: Q = 105 m3\/s\n+ Mực nước thiết kế Hđỉnh = (+1,91)m; Hchân = (+1,31)m\n- Kiểm tra với tần xuất: P = 10%:\n+ Hệ số tiêu: 2,",
+                "Qu___tr__n": "- Năm 1983 Tường ngực có 3 vết nứt xuất hiệncác vết nứt này được theo dõi từ khi xuất hiện đến nay chưa thấy phát triển thêm\n- Năm 1988 thay thế cánh cống của 6 cửa cống; Sửa chữa hai cửa đi��",
+                "K___t_qu__": "- Cầu giao thông mặt cầu bình thường\n- Cầu công tác hoạt động bình thường\n- Trụ pin làm việc bình thường\n- Tường ngực có 3 vết nứt xuất hiện năm 1983, các vết nứt này được theo dõi từ khi xu��",
+                "gx_media_l": "https:\/\/doc-0s-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/jvtr5hgqfk445of82vsipekm9o\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbsaJ4cICL2vabP1k116ZtSLw-8U_hmvW4Cd1CB1XbWZkbW8oGj0H_AhY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.455406,
+                    20.749561,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Âu thuyền Cầu Cất",
+                "descriptio": "Năm xây dựng, hoàn thành và nhiệm vụ: - Khởi công xây dựng âu thuyền cầu Cất mới vào cuối năm 2018<br>- Năm hoàn thành: 2020<br>- Nhiệm vụ: làm nhiệm vụ giao thông thủy giữa kênh Kim Sơn hệ thống thủ",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "- Khởi công xây dựng âu thuyền cầu Cất mới vào cuối năm 2018\n- Năm hoàn thành: 2020\n- Nhiệm vụ: làm nhiệm vụ giao thông thủy giữa kênh Kim Sơn hệ thống thủy nông Bắc Hưng Hải với sông Thái Bình thi��",
+                "Th__ng_s__": "(cao độ tính theo cao độ VN2000, cao độ này thấp hơn cao độ thủy lợi 0,273m)\n- Mực nước thiết kế: P = 0,4%\nPhía sông: (+5,40)m \nPhía đồng: (+3,01)m\n- Mực nước kiểm tra: p = 0,2%\nPhía sông: (+5,77)m\nPhía đồ",
+                "Qu___tr__n": null,
+                "K___t_qu__": "-\tCông trình thuỷ công:\n+ Cửa âu phía đồng từ khi đưa vào vận hành thử qua theo dõi phần thuỷ công có hiện tượng lún. Trạm yêu cầu Ban QLDA, đơn vị thi công tiếp tục theo dõi.\n+ Lòng âu: Từ khi đưa",
+                "gx_media_l": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.3457412,
+                    20.9258513,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cống BáThủy",
+                "descriptio": "<img src=\"https:\/\/doc-0s-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/gv3g0t07rn2ptpna1sea01cj5s\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbqo2xnf0ELIoIw5C3NQvFwt8aOcn6fcY7YBQ7aSZkdNok4",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "Xây dựng năm 1962\n- Nhiệm vụ: điều tiết tưới tiêu và giao thông đường bộ\n+ Về tưới: tưới cho 35000 ha của các huyện Cẩm Giàng, Bình Giang, Gia Lộc, Tứ Kỳ tỉnh Hải Dương, một phần huyện Gia Bình",
+                "Th__ng_s__": "- Mực nước TK: TL: (+3,00)m; HL: (+0,00)m\n- Mực nước kiểm tra: TL: (+3,50)m; HL: (+0,00)m\n- Lưu lượng tiêu: Q = 148m3\/s ứng với P = 10%\n- Quy mô kích thước: \n+ Cống có 5 cửa: BxH= 8m x 5,15m\n+ Chiều rộng toàn bộ: B=",
+                "Qu___tr__n": "- Năm 2009; năm 2010: điện khí hóa 5 tời đóng mở cánh cống\n- năm 2015: - Tu sửa mái kè đá hạ lưu phía bờ Tả cống Bá Thủy, thả đá rời, rọ đá chống xói. Xây nối tiếp phần kè đá cũ dài thêm 20m c",
+                "K___t_qu__": "- Phần thủy công:\n+ Cầu giao thông: dầm cầu một số đầu dầm bê tông có hiện tượng nứt. Trụ cầu có 5 trụ giữa bình thường, mố đầu cầu bên tả bình thường không có hiện tượng nứt, lún, bê t",
+                "gx_media_l": "https:\/\/doc-0s-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/gv3g0t07rn2ptpna1sea01cj5s\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vbqo2xnf0ELIoIw5C3NQvFwt8aOcn6fcY7YBQ7aSZkdNok4bbxo05BTCo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.243458,
+                    20.891068,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cống Tranh cũ",
+                "descriptio": "Năm xây dựng, hoàn thành và nhiệm vụ: - Năm xây dựng: 1930<br>- Nhiệm vụ điều tiết tưới, tiêu và giao thông đường bộ<br>+ Về tưới: lấy nước kênh Kim Sơn tưới cho 35000 ha phía nam hệ thống Bắc Hư",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "- Năm xây dựng: 1930\n- Nhiệm vụ điều tiết tưới, tiêu và giao thông đường bộ\n+ Về tưới: lấy nước kênh Kim Sơn tưới cho 35000 ha phía nam hệ thống Bắc Hưng Hải gồm các huyện Ân Thi, Phù Cừ, Tiên L",
+                "Th__ng_s__": "-Mực nước kiểm tra\n+ TL: +3,5m; HL: +0,75m\n- Lưu lượng tiêu: Q= 7,0 m3\/s\n- Quy mô, kích thước:\n+ Cống có 3 cửa: cửa giữa BxH= 3,0m x4,5m\nHai cửa bên BxH= 2,0m x 3,15m\n+Chiều rộng toàn bộ 11,55m\n+Chiều dài L=17,5 m\n+",
+                "Qu___tr__n": "- Năm 2018: Sửa chữa, cải tạo giàn van công tác\n- Năm  2018: Thay máy đóng mở vận hành bằng điện: cánh cửa giữa vận hành bằng máy V5, 2 cánh 2 bên vận hành bằng máy V3",
+                "K___t_qu__": "- Công trình thủy công:\n+ Cầu giao thông, cầu công tác hiện ổn định, cầu thang lên sàn công tác bị móp 1 đoạn dài 1,0m do va chạm giao thông.\n+ Tường cánh hiện tại cả tường phía thượng lưu và hạ lư",
+                "gx_media_l": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.1374381,
+                    20.892585,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cống Kênh Cầu",
+                "descriptio": "<img src=\"https:\/\/doc-10-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/4nerpced2ckl4ha11e3r93lvjs\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vb3mK-S6lbtIX_bYIhOfukjP_zystbSri0JLIDXxeOeKiom",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "- Năm xây dựng 1960; Năm hoàn thành 1961\n- Nhiệm vụ công trình: Cống Kênh Cầu nằm trên kênh Kim Sơn là kênh trục chính Bắc Hưng Hải có nhiệm vụ điều tiết nước tưới và tiêu cho phía bắc hệ thống v",
+                "Th__ng_s__": "- Tần suất thiết kế P=10%; Q= 21 m3\/s\n- Tần suất thiết kế P=5% ;Q= 31 m3\/s\n",
+                "Qu___tr__n": "- Năm 1991 thay cánh số 4;\n- Năm 1995 thay cánh số 1,5,6\n- Năm 1996 thay cánh số 2, 3\n- Năm 1996 thay máy đóng mở cửa số 2, 3\n- Năm 1997 cải tạo từ phai gỗ đóng mở bằng ba lăng xen 3 tấn sang phai thép, máy đón",
+                "K___t_qu__": "- Phần thủy công:\n+ Mặt cầu, dầm cầu, lan can cầu giao thông , dầm sàn công tác, các trụ pin, mái đá thượng, hạ lưu hiện ổn định\n- Các thiết bị cơ khí:\n+ Tấm số 3 cánh số 1 đã bị mục thủng m��",
+                "gx_media_l": "https:\/\/doc-10-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/4nerpced2ckl4ha11e3r93lvjs\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vb3mK-S6lbtIX_bYIhOfukjP_zystbSri0JLIDXxeOeKiomkQ3wAQfSW7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.007964,
+                    20.9170775,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Âu Bằng Ngang",
+                "descriptio": "<img src=\"https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/12959imo372k384569gonis49o\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vY9Il3NdwBwjmvvACkCIScdra3Hf5xSd01KxXhp-wrhB_Z7",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMo": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "N__m_x__y_": "- Năm xây dựng 1971; Hoàn thành năm 1972\n- Nhiệm vụ công trình: Điều tiết nước tưới cho Kim Động và Khoái Châu,ngăn nước tiêu cho khu Nam và cho thuyền bè qua lại từ thị xã Hưng Yên ra kênh chính Bắc H",
+                "Th__ng_s__": "- Mực nước thiết kế:\n+ TL max: +3.4m\n+ HL min: + 1.5m\n- Lưu lượng thiết kế: 8,6 m3\/s",
+                "Qu___tr__n": "- Năm 2000 thay cánh âu\n",
+                "K___t_qu__": "- Phần công trình thủy công: \n+ Sàn công tác, cầu thang, tường cánh thượng, hạ lưu âu, thành âu, mái đá thượng hạ lưu âu hiện ổn định;\n+ Mái đá thượng hạ lưu: Một phần tiếp giáp với cửa âu ph",
+                "gx_media_l": "https:\/\/doc-14-bk-mymaps.googleusercontent.com\/untrusted\/hostedimage\/pbn20i5p8e31ci3eq3fa5e4pl4\/12959imo372k384569gonis49o\/1651825574750\/Z17uu3bGPKGvFIkTwMm7yIQZnus4l832\/13165011080813166084\/5AIsG_vY9Il3NdwBwjmvvACkCIScdra3Hf5xSd01KxXhp-wrhB_Z7yX_Kb0g72i"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.062572599999982,
+                    20.7454289,
+                    0.0
+                ]
+            }
+        }
+    ]
 }
